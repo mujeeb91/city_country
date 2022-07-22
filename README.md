@@ -1,0 +1,1 @@
+Uses https://github.com/dr5hn/countries-states-cities-database/blob/master/csv/cities.csv?raw=true repository to get city and their country names.
